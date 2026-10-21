@@ -13,7 +13,7 @@ function specialtxt({text}){
     
   )
 
-}function specialImage({url: link}){
+}function specialImage({link}){
   return(
     <img src={link} />
       
